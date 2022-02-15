@@ -1,0 +1,13 @@
+node_modules
+.vs
+.vs
+.idea
+*_secrets
+.influxconfig
+node_modules
+cypress
+dist
+output
+input
+debug.log
+.ds_store
